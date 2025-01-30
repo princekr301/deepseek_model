@@ -1,5 +1,5 @@
 # deepseek_model
-```html
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -170,4 +170,4 @@
         <p>&copy; 2024 EDTech. All rights reserved.</p>
     </footer>
 </body>
-</html>```
+</html>
